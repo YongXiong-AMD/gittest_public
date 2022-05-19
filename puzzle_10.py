@@ -6,3 +6,4 @@
 
 
 print(sum(range(0, 7)))
+print(sum(range(0, 7)))
